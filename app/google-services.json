@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805704286462",
+    "project_id": "project--5951193569172172774"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805704286462:android:50e4ca3c38fbe06e",
+        "android_client_info": {
+          "package_name": "roborium.roborium.co.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805704286462-4ie0g8gpomejl44n3v831mq6l1vfs8cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "roborium.roborium.co.googlelogin",
+            "certificate_hash": "B2BCE45AF3A0A026213888B4F4F93E4727D7F8AF"
+          }
+        },
+        {
+          "client_id": "805704286462-1fesr29ve03bie1bfjds751kseib6ait.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXBkr33COx5ukE5_YVOLbHjHvLyEMjb-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
